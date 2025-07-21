@@ -1,9 +1,9 @@
 
-<img width="1500" height="750" alt="Programação-Forum Hub API REST" src="https://github.com/user-attachments/assets/0525361f-d7ee-4246-8b04-e93a6f9119ef" />
+<img width="1500" height="750" alt=" ONE ORACLE G8 - CHALLENGE - Programação-Forum Hub API REST" src="https://github.com/user-attachments/assets/0525361f-d7ee-4246-8b04-e93a6f9119ef" />
 
 # 🚀 Forum Hub API REST
 
-Bem-vindo(a) a API REST do Forum Hub\! Este projeto faz parte do desafio "Forum Hub" da Alura, construído com Spring Boot 3, e visa simular um fórum de discussões, oferecendo endpoints para gerenciar tópicos, usuários e cursos.
+Bem-vindo(a) a API REST do Forum Hub\! Este projeto faz parte do desafio "Forum Hub" da Alura  ONE ORACLE G8 - CHALLENGE, construído com Spring Boot 3, e visa simular um fórum de discussões, oferecendo endpoints para gerenciar tópicos, usuários e cursos.
 
 
 
