@@ -62,7 +62,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 2.  **Atualize as credenciais do banco de dados** no arquivo `src/main/resources/application.properties`:
 
     ```properties
-    spring.datasource.url=jdbc:mysql://localhost:3306/forum_hub
+    spring.datasource.url=jdbc:mysql://localhost:PORTA/forum_hub
     spring.datasource.username=seu_usuario_mysql
     spring.datasource.password=sua_senha_mysql
     ```
@@ -84,7 +84,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
       * Localize a classe principal `ForumApplication.java` (em `src/main/java/com/alura/br/forum`) e execute-a (clique no ícone de "play" verde ao lado do `main` method).
       * Alternativamente, via terminal na raiz do projeto: `mvn spring-boot:run`
 
-A API estará rodando em `http://localhost:8082`.
+A API estará rodando em `http://localhost:PORTA`.
 
 -----
 
@@ -92,7 +92,7 @@ A API estará rodando em `http://localhost:8082`.
 
 Após iniciar a aplicação, você pode acessar a documentação interativa da API através do Swagger UI no seu navegador:
 
-  * **URL:** `http://localhost:8082/swagger-ui.html`
+  * **URL:** `http://localhost:PORTA/swagger-ui.html`
 
 Nesta interface, você poderá visualizar todos os endpoints, testá-los diretamente (incluindo autenticação com JWT) e entender a estrutura das requisições e respostas.
 
